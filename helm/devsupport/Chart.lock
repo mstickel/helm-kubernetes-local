@@ -1,0 +1,9 @@
+dependencies:
+- name: docker-registry
+  repository: https://kubernetes-charts.storage.googleapis.com
+  version: 1.9.4
+- name: chartmuseum
+  repository: https://kubernetes-charts.storage.googleapis.com
+  version: 2.13.0
+digest: sha256:662b72ad872b63ed6274148c8104e6d08508589630280b7ac5683c2f07fa6ceb
+generated: "2020-07-18T03:54:35.316147-07:00"
